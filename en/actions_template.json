@@ -281,7 +281,7 @@
             "url": "http://lbs.amap.com/api/amap-mobile/guide/ios/ios-uri-information",
             "actions": [
                 {
-                    "brief": "",
+                    "brief": "显示从我的位置到输入位置的路线",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_gaode.png",
                     "name": "Go to",
                     "url": "iosamap://path?sourceApplication=wao&sid=BGVIS1&did=BGVIS2&dname=%@&dev=0&t=0",
