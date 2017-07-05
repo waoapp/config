@@ -8,252 +8,252 @@
             "url": "",
             "actions": [
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Open URL scheme",
                     "url": "%@",
                     "keyword": "open"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "WAO app",
                     "url": "waoapp://",
                     "keyword": "waoapp"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "About",
                     "url": "App-Prefs:root=General&path=About",
                     "keyword": "about"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Accessibility",
                     "url": "App-Prefs:root=General&path=ACCESSIBILITY",
                     "keyword": "accessibility"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Battery",
                     "url": "App-Prefs:root=BATTERY_USAGE",
                     "keyword": "battery"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Bluetooth",
                     "url": "App-Prefs:root=Bluetooth",
                     "keyword": "bluetooth"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Carrier",
                     "url": "App-Prefs:root=Carrier",
                     "keyword": "carrier"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Date & Time",
                     "url": "App-Prefs:root=General&path=DATE_AND_TIME",
                     "keyword": "datetime"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Display & Brightness",
                     "url": "App-Prefs:root=DISPLAY",
                     "keyword": "displaybrightness"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "FaceTime",
                     "url": "App-Prefs:root=FACETIME",
                     "keyword": "facetime"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "General",
                     "url": "App-Prefs:root=General",
                     "keyword": "general"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Keyboards",
                     "url": "App-Prefs:root=General&path=Keyboard",
                     "keyword": "keyboards"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "iCloud",
                     "url": "App-Prefs:root=CASTLE",
                     "keyword": "icloud"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "iCloud Storage",
                     "url": "App-Prefs:root=CASTLE&path=STORAGE_AND_BACKUP",
                     "keyword": "icloudstorage"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "iTunes & App Store",
                     "url": "App-Prefs:root=STORE",
                     "keyword": "itunesappstore"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Language & Region",
                     "url": "App-Prefs:root=General&path=INTERNATIONAL",
                     "keyword": "languageregion"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Location Services",
                     "url": "App-Prefs:root=Privacy&path=LOCATION",
                     "keyword": "locationservices"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Music",
                     "url": "App-Prefs:root=MUSIC",
                     "keyword": "music"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Notes",
                     "url": "App-Prefs:root=NOTES",
                     "keyword": "notes"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Notifications",
                     "url": "App-Prefs:root=NOTIFICATIONS_ID",
                     "keyword": "notifications"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Mobile Data",
                     "url": "App-Prefs:root=MOBILE_DATA_SETTINGS_ID",
                     "keyword": "mobiledata"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Personal Hotspot",
                     "url": "App-Prefs:root=INTERNET_TETHERING",
                     "keyword": "personalhotspot"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Phone",
                     "url": "App-Prefs:root=Phone",
                     "keyword": "phone"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Photos & Camera",
                     "url": "App-Prefs:root=Photos",
                     "keyword": "photoscamera"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Privacy",
                     "url": "App-Prefs:root=Privacy",
                     "keyword": "privacy"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Profiles & Device Management",
                     "url": "App-Prefs:root=General&path=ManagedConfigurationList",
                     "keyword": "profilesdevicemanagement"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Reset",
                     "url": "App-Prefs:root=General&path=Reset",
                     "keyword": "reset"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Safari",
                     "url": "App-Prefs:root=SAFARI",
                     "keyword": "safari"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Siri",
                     "url": "App-Prefs:root=SIRI",
                     "keyword": "siri"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Sounds",
                     "url": "App-Prefs:root=Sounds",
                     "keyword": "sounds"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Software Update",
                     "url": "App-Prefs:root=General&path=SOFTWARE_UPDATE_LINK",
                     "keyword": "softwareupdate"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Storage",
                     "url": "App-Prefs:root=General&path=STORAGE_ICLOUD_USAGE/DEVICE_STORAGE",
                     "keyword": "storage"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Twitter",
                     "url": "App-Prefs:root=TWITTER",
                     "keyword": "twitter"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "VPN",
                     "url": "App-Prefs:root=VPN",
                     "keyword": "vpn"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Wallpaper",
                     "url": "App-Prefs:root=Wallpaper",
                     "keyword": "wallpaper"
                 },
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
                     "name": "Wi-Fi",
                     "url": "App-Prefs:root=WIFI",
@@ -267,7 +267,7 @@
             "url": "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html#//apple_ref/doc/uid/TP40007899-CH5-SW1",
             "actions": [
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_apple.png",
                     "name": "Go to",
                     "url": "http://maps.apple.com/?daddr=%@",
@@ -281,7 +281,7 @@
             "url": "http://lbs.amap.com/api/amap-mobile/guide/ios/ios-uri-information",
             "actions": [
                 {
-                    "note": "",
+                    "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_gaode.png",
                     "name": "Go to",
                     "url": "iosamap://path?sourceApplication=wao&sid=BGVIS1&did=BGVIS2&dname=%@&dev=0&t=0",
