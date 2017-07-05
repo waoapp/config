@@ -262,6 +262,20 @@
             ]
         },
         {
+            "name": "Workflow",
+            "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_workflow.png",
+            "url": "https://workflow.is/docs/using-the-workflow-url-scheme",
+            "actions": [
+                {
+                    "brief": "",
+                    "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_workflow.png",
+                    "name": "Run workflow",
+                    "url": "workflow://run-workflow?name=%@",
+                    "keyword": "run"
+                }
+            ]
+        },
+        {
             "name": "Apple Map",
             "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_apple.png",
             "url": "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html#//apple_ref/doc/uid/TP40007899-CH5-SW1",
