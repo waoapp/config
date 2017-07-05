@@ -287,7 +287,7 @@
                             "note": "",
                             "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_gaode.png",
                             "name": "Go to",
-                            "url": "iosamap://path?sourceApplication=wao&sid=BGVIS1&did=BGVIS2&dname=%@&dev=0&t=0"",
+                            "url": "iosamap://path?sourceApplication=wao&sid=BGVIS1&did=BGVIS2&dname=%@&dev=0&t=0",
                             "keyword": "goto"
                         }
                     ]
