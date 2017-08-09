@@ -17,7 +17,7 @@
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "打开 Wao app",
+                    "name": "打开 WAO app",
                     "url": "waoapp://",
                     "keyword": "waoapp"
                 },
