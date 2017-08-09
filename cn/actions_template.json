@@ -1,261 +1,261 @@
 {
     "ver": 1,
-    "lan": "en",
+    "lan": "cn",
     "array": [
         {
-            "name": "System",
+            "name": "系统",
             "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
             "url": "",
             "actions": [
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Open URL scheme",
+                    "name": "打开 URL scheme",
                     "url": "%@",
                     "keyword": "open"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "WAO app",
+                    "name": "打开 WAO app",
                     "url": "waoapp://",
                     "keyword": "waoapp"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "About",
+                    "name": "关于本机页面",
                     "url": "App-Prefs:root=General&path=About",
                     "keyword": "about"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Accessibility",
+                    "name": "辅助功能设置页面",
                     "url": "App-Prefs:root=General&path=ACCESSIBILITY",
                     "keyword": "accessibility"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Battery",
+                    "name": "电池设置页面",
                     "url": "App-Prefs:root=BATTERY_USAGE",
                     "keyword": "battery"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Bluetooth",
+                    "name": "蓝牙设置页面",
                     "url": "App-Prefs:root=Bluetooth",
                     "keyword": "bluetooth"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Carrier",
+                    "name": "运营商页面",
                     "url": "App-Prefs:root=Carrier",
                     "keyword": "carrier"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Date & Time",
+                    "name": "日期与时间设置页面",
                     "url": "App-Prefs:root=General&path=DATE_AND_TIME",
                     "keyword": "datetime"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Display & Brightness",
+                    "name": "显示与亮度设置页面",
                     "url": "App-Prefs:root=DISPLAY",
                     "keyword": "displaybrightness"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "FaceTime",
+                    "name": "FaceTime设置页面",
                     "url": "App-Prefs:root=FACETIME",
                     "keyword": "facetime"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "General",
+                    "name": "通用设置页面",
                     "url": "App-Prefs:root=General",
                     "keyword": "general"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Keyboards",
+                    "name": "键盘设置页面",
                     "url": "App-Prefs:root=General&path=Keyboard",
                     "keyword": "keyboards"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "iCloud",
+                    "name": "iCloud 设置页面",
                     "url": "App-Prefs:root=CASTLE",
                     "keyword": "icloud"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "iCloud Storage",
+                    "name": "iCloud 存储空间设置页面",
                     "url": "App-Prefs:root=CASTLE&path=STORAGE_AND_BACKUP",
                     "keyword": "icloudstorage"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "iTunes & App Store",
+                    "name": "iTunes Store 与 App Store 设置页面",
                     "url": "App-Prefs:root=STORE",
                     "keyword": "itunesappstore"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Language & Region",
+                    "name": "语言与地区设置页面",
                     "url": "App-Prefs:root=General&path=INTERNATIONAL",
                     "keyword": "languageregion"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Location Services",
+                    "name": "定位服务设置页面",
                     "url": "App-Prefs:root=Privacy&path=LOCATION",
                     "keyword": "locationservices"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Music",
+                    "name": "音乐设置页面",
                     "url": "App-Prefs:root=MUSIC",
                     "keyword": "music"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Notes",
+                    "name": "备忘录设置页面",
                     "url": "App-Prefs:root=NOTES",
                     "keyword": "notes"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Notifications",
+                    "name": "通知设置页面",
                     "url": "App-Prefs:root=NOTIFICATIONS_ID",
                     "keyword": "notifications"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Mobile Data",
+                    "name": "蜂窝移动网络设置",
                     "url": "App-Prefs:root=MOBILE_DATA_SETTINGS_ID",
                     "keyword": "mobiledata"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Personal Hotspot",
+                    "name": "个人热点设置页面",
                     "url": "App-Prefs:root=INTERNET_TETHERING",
                     "keyword": "personalhotspot"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Phone",
+                    "name": "电话设置页面",
                     "url": "App-Prefs:root=Phone",
                     "keyword": "phone"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Photos & Camera",
+                    "name": "照片与相机设置页面",
                     "url": "App-Prefs:root=Photos",
                     "keyword": "photoscamera"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Privacy",
+                    "name": "隐私设置页面",
                     "url": "App-Prefs:root=Privacy",
                     "keyword": "privacy"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Profiles & Device Management",
+                    "name": "描述文件与设备管理页面",
                     "url": "App-Prefs:root=General&path=ManagedConfigurationList",
                     "keyword": "profilesdevicemanagement"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Reset",
+                    "name": "还原设置页面",
                     "url": "App-Prefs:root=General&path=Reset",
                     "keyword": "reset"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Safari",
+                    "name": "Safari 设置页面",
                     "url": "App-Prefs:root=SAFARI",
                     "keyword": "safari"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Siri",
+                    "name": "Siri 设置页面",
                     "url": "App-Prefs:root=SIRI",
                     "keyword": "siri"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Sounds",
+                    "name": "声音设置页面",
                     "url": "App-Prefs:root=Sounds",
                     "keyword": "sounds"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Software Update",
+                    "name": "软件更新页面",
                     "url": "App-Prefs:root=General&path=SOFTWARE_UPDATE_LINK",
                     "keyword": "softwareupdate"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Storage",
+                    "name": "存储空间页面",
                     "url": "App-Prefs:root=General&path=STORAGE_ICLOUD_USAGE/DEVICE_STORAGE",
                     "keyword": "storage"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Twitter",
+                    "name": "Twitter 设置页面",
                     "url": "App-Prefs:root=TWITTER",
                     "keyword": "twitter"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "VPN",
+                    "name": "VPN 设置页面",
                     "url": "App-Prefs:root=VPN",
                     "keyword": "vpn"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Wallpaper",
+                    "name": "墙纸设置页面",
                     "url": "App-Prefs:root=Wallpaper",
                     "keyword": "wallpaper"
                 },
                 {
                     "brief": "",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_system.png",
-                    "name": "Wi-Fi",
+                    "name": "Wi-Fi 设置页面",
                     "url": "App-Prefs:root=WIFI",
                     "keyword": "wifi"
                 }
@@ -267,24 +267,38 @@
             "url": "https://workflow.is/docs/using-the-workflow-url-scheme",
             "actions": [
                 {
-                    "brief": "Run the input workflow in Workflow app",
+                    "brief": "根据输入的名称运行 Workflow 中对应的 workflow",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_workflow.png",
-                    "name": "Run workflow",
+                    "name": "运行 workflow",
                     "url": "workflow://run-workflow?name=%@",
                     "keyword": "run"
                 }
             ]
         },
         {
-            "name": "Apple Map",
+            "name": "苹果地图",
             "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_apple.png",
             "url": "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html#//apple_ref/doc/uid/TP40007899-CH5-SW1",
             "actions": [
                 {
-                    "brief": "Show route from my location to the input location",
+                    "brief": "显示从我的位置到输入位置的路线",
                     "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_apple.png",
-                    "name": "Go to",
+                    "name": "前往",
                     "url": "http://maps.apple.com/?daddr=%@",
+                    "keyword": "goto"
+                }
+            ]
+        },
+        {
+            "name": "高德地图",
+            "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_gaode.png",
+            "url": "http://lbs.amap.com/api/amap-mobile/guide/ios/ios-uri-information",
+            "actions": [
+                {
+                    "brief": "显示从我的位置到输入位置的路线",
+                    "icon": "https://raw.githubusercontent.com/waoapp/waoapp.config/master/assets/icon_action_map_gaode.png",
+                    "name": "前往",
+                    "url": "iosamap://path?sourceApplication=wao&sid=BGVIS1&did=BGVIS2&dname=%@&dev=0&t=0",
                     "keyword": "goto"
                 }
             ]
