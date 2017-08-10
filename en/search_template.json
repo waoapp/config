@@ -1,0 +1,31 @@
+{
+    "ver": 1,
+    "lan": "en",
+    "array": [
+        {
+            "name": "Google",
+            "keyword": "google",
+            "url": "https://www.google.com/search?q=%@"
+        },
+        {
+            "name": "Bing",
+            "keyword": "bing",
+            "url": "https://www.bing.com/search?q=%@"
+        },
+        {
+            "name": "Youtube",
+            "keyword": "youtube",
+            "url": "https://www.youtube.com/results?search_query=%@"
+        },
+        {
+            "name": "Wikipedia",
+            "keyword": "wikipedia",
+            "url": "https://en.wikipedia.org/wiki/%@"
+        },
+        {
+            "name": "Amazon",
+            "keyword": "amazon",
+            "url": "https://www.amazon.com/gp/aw/s/ref=is_s?k=%@"
+        }
+    ]
+}
