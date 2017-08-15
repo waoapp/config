@@ -4,27 +4,27 @@
     "array": [
         {
             "name": "Google",
-            "keyword": "google",
+            "command": "google",
             "url": "https://www.google.com/search?q=%@"
         },
         {
             "name": "Bing",
-            "keyword": "bing",
+            "command": "bing",
             "url": "https://www.bing.com/search?q=%@"
         },
         {
             "name": "Youtube",
-            "keyword": "youtube",
+            "command": "youtube",
             "url": "https://www.youtube.com/results?search_query=%@"
         },
         {
             "name": "Wikipedia",
-            "keyword": "wikipedia",
+            "command": "wikipedia",
             "url": "https://en.wikipedia.org/wiki/%@"
         },
         {
             "name": "Amazon",
-            "keyword": "amazon",
+            "command": "amazon",
             "url": "https://www.amazon.com/gp/aw/s/ref=is_s?k=%@"
         }
     ]

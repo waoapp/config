@@ -4,37 +4,37 @@
     "array": [
         {
             "name": "Google",
-            "keyword": "google",
+            "command": "google",
             "url": "https://www.google.com/search?q=%@"
         },
         {
             "name": "Bing",
-            "keyword": "bing",
+            "command": "bing",
             "url": "https://www.bing.com/search?q=%@"
         },
         {
             "name": "Translate",
-            "keyword": "translate",
+            "command": "translate",
             "url": "https://translate.google.cn/m/translate#auto/zh-CN/%@"
         },
         {
             "name": "Youtube",
-            "keyword": "youtube",
+            "command": "youtube",
             "url": "https://www.youtube.com/results?search_query=%@"
         },
         {
             "name": "Wikipedia",
-            "keyword": "wikipedia",
+            "command": "wikipedia",
             "url": "https://en.wikipedia.org/wiki/%@"
         },
         {
             "name": "知乎",
-            "keyword": "zhihu",
+            "command": "zhihu",
             "url": "https://www.zhihu.com/search?type=content&q=%@"
         },
         {
             "name": "淘宝",
-            "keyword": "taobao",
+            "command": "taobao",
             "url": "https://s.m.taobao.com/h5?q=%@"
         }
     ]
